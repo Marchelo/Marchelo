@@ -20,8 +20,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,react,redux,nextjs,mongodb,postgres,express,java,python" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=javascript,ts,react,redux,nodejs,express,nextjs,mongodb,postgres,mysql,graphql,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,git,postman,figma,linux" />
 </p>
 
 <hr>
