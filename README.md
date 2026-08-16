@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=52f52a&duration=4000&lines=Hi+There!+👋;+I'm+Luka!;" />
 </h1>
 
-### A Junior Full-Stack Web Developer with hands-on experience building modern, scalable websites and web applications for small and medium-sized businesses. I work across both front-end and back-end, delivering complete, well-structured solutions with clean, maintainable code.
+### Junior Full-Stack Developer with hands-on experience building modern, scalable web applications for small and medium-sized businesses. Proficient in both front-end and back-end development, with a focus on delivering clean, maintainable, and well-structured code.
+### Experienced in developing Java-based client-server applications using sockets, including implementing multi-threaded communication and handling concurrent users.
+### Strong understanding of object-oriented programming, algorithms, data structures, software design principles and patterns, complemented by solid problem-solving skills and a commitment to writing efficient, reliable, and maintainable software.
 
 <br>
 
