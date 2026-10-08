@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=52f52a&duration=4000&lines=Hi+There!+👋;+I'm+Luka!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=52f52a&duration=4000&lines=Hi+There!+👋;+I'm+Luka;" />
 </h1>
 
-### Junior Full-Stack Developer with hands-on experience building modern and maintainable web applications for small and medium-sized businesses. Proficient in both front-end and back-end development, with a focus on writing clean, well-structured, and reliable code.
-### Experienced in developing Java-based client-server applications using sockets, including multi-threaded communication and concurrent user handling.
-### Strong foundation in object-oriented programming, algorithms, data structures, and software design principles and patterns. Passionate about problem-solving and building efficient, reliable, and maintainable software.
+### Junior Full-Stack Developer and final-year student at the Faculty of Organizational Sciences with experience building full-stack and client-server applications.
+### Experienced with React, Next.js, Node.js, Express, Java, and relational & non-relational databases including PostgreSQL, MySQL, and MongoDB. I have also developed multi-threaded Java applications using sockets and Swing, which strengthened my understanding of OOP and software design.
+### I am currently learning how to combine my Java and JavaScript skills to build complete full-stack applications with Spring Boot, Hibernate, and React.
 
 <br>
 
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <br>
 
